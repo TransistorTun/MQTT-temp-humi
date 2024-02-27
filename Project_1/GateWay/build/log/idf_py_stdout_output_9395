@@ -1,0 +1,44 @@
+-- Found Git: /usr/bin/git (found version "2.34.1") 
+-- Component directory /home/dongkhoa/Documents/ssd1963/Project_1/GateWay/Libs/RTC does not contain a CMakeLists.txt file. No component will be added
+-- The C compiler identification is GNU 12.2.0
+-- The CXX compiler identification is GNU 12.2.0
+-- The ASM compiler identification is GNU
+-- Found assembler: /home/dongkhoa/esp/tools/xtensa-esp32-elf/esp-12.2.0_20230208/xtensa-esp32-elf/bin/xtensa-esp32-elf-gcc
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /home/dongkhoa/esp/tools/xtensa-esp32-elf/esp-12.2.0_20230208/xtensa-esp32-elf/bin/xtensa-esp32-elf-gcc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /home/dongkhoa/esp/tools/xtensa-esp32-elf/esp-12.2.0_20230208/xtensa-esp32-elf/bin/xtensa-esp32-elf-g++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Building ESP-IDF components for target esp32
+-- Project sdkconfig file /home/dongkhoa/Documents/ssd1963/Project_1/GateWay/sdkconfig
+-- Looking for sys/types.h
+-- Looking for sys/types.h - found
+-- Looking for stdint.h
+-- Looking for stdint.h - found
+-- Looking for stddef.h
+-- Looking for stddef.h - found
+-- Check size of time_t
+-- Check size of time_t - done
+-- Found Python3: /home/dongkhoa/esp/python_env/idf5.1_py3.10_env/bin/python (found version "3.10.12") found components: Interpreter 
+-- Performing Test C_COMPILER_SUPPORTS_WFORMAT_SIGNEDNESS
+-- Performing Test C_COMPILER_SUPPORTS_WFORMAT_SIGNEDNESS - Success
+-- App "GateWay" version: 4ce36db-dirty
+-- Adding linker script /home/dongkhoa/Documents/ssd1963/Project_1/GateWay/build/esp-idf/esp_system/ld/memory.ld
+-- Adding linker script /home/dongkhoa/esp/esp-idf/components/esp_system/ld/esp32/sections.ld.in
+-- Adding linker script /home/dongkhoa/esp/esp-idf/components/esp_rom/esp32/ld/esp32.rom.ld
+-- Adding linker script /home/dongkhoa/esp/esp-idf/components/esp_rom/esp32/ld/esp32.rom.api.ld
+-- Adding linker script /home/dongkhoa/esp/esp-idf/components/esp_rom/esp32/ld/esp32.rom.libgcc.ld
+-- Adding linker script /home/dongkhoa/esp/esp-idf/components/esp_rom/esp32/ld/esp32.rom.newlib-data.ld
+-- Adding linker script /home/dongkhoa/esp/esp-idf/components/esp_rom/esp32/ld/esp32.rom.syscalls.ld
+-- Adding linker script /home/dongkhoa/esp/esp-idf/components/esp_rom/esp32/ld/esp32.rom.newlib-funcs.ld
+-- Adding linker script /home/dongkhoa/esp/esp-idf/components/soc/esp32/ld/esp32.peripherals.ld
+-- Components: DHT GPIO MQTT NVS WIFI app_trace app_update bootloader bootloader_support bt cmock console cxx driver efuse esp-tls esp_adc esp_app_format esp_coex esp_common esp_eth esp_event esp_gdbstub esp_hid esp_http_client esp_http_server esp_https_ota esp_https_server esp_hw_support esp_lcd esp_local_ctrl esp_mm esp_netif esp_netif_stack esp_partition esp_phy esp_pm esp_psram esp_ringbuf esp_rom esp_system esp_timer esp_wifi espcoredump esptool_py fatfs freertos hal heap http_parser idf_test ieee802154 json log lv_examples lvgl lvgl_esp32_drivers lvgl_tft lvgl_touch lwip main mbedtls mqtt newlib nvs_flash openthread partition_table perfmon protobuf-c protocomm pthread sdmmc soc spi_flash spiffs tcp_transport ulp unity usb vfs wear_levelling wifi_provisioning wpa_supplicant xtensa
+-- Component paths: /home/dongkhoa/Documents/ssd1963/Project_1/GateWay/Libs/DHT /home/dongkhoa/Documents/ssd1963/Project_1/GateWay/Libs/GPIO /home/dongkhoa/Documents/ssd1963/Project_1/GateWay/Libs/MQTT /home/dongkhoa/Documents/ssd1963/Project_1/GateWay/Libs/NVS /home/dongkhoa/Documents/ssd1963/Project_1/GateWay/Libs/WIFI /home/dongkhoa/esp/esp-idf/components/app_trace /home/dongkhoa/esp/esp-idf/components/app_update /home/dongkhoa/esp/esp-idf/components/bootloader /home/dongkhoa/esp/esp-idf/components/bootloader_support /home/dongkhoa/esp/esp-idf/components/bt /home/dongkhoa/esp/esp-idf/components/cmock /home/dongkhoa/esp/esp-idf/components/console /home/dongkhoa/esp/esp-idf/components/cxx /home/dongkhoa/esp/esp-idf/components/driver /home/dongkhoa/esp/esp-idf/components/efuse /home/dongkhoa/esp/esp-idf/components/esp-tls /home/dongkhoa/esp/esp-idf/components/esp_adc /home/dongkhoa/esp/esp-idf/components/esp_app_format /home/dongkhoa/esp/esp-idf/components/esp_coex /home/dongkhoa/esp/esp-idf/components/esp_common /home/dongkhoa/esp/esp-idf/components/esp_eth /home/dongkhoa/esp/esp-idf/components/esp_event /home/dongkhoa/esp/esp-idf/components/esp_gdbstub /home/dongkhoa/esp/esp-idf/components/esp_hid /home/dongkhoa/esp/esp-idf/components/esp_http_client /home/dongkhoa/esp/esp-idf/components/esp_http_server /home/dongkhoa/esp/esp-idf/components/esp_https_ota /home/dongkhoa/esp/esp-idf/components/esp_https_server /home/dongkhoa/esp/esp-idf/components/esp_hw_support /home/dongkhoa/esp/esp-idf/components/esp_lcd /home/dongkhoa/esp/esp-idf/components/esp_local_ctrl /home/dongkhoa/esp/esp-idf/components/esp_mm /home/dongkhoa/esp/esp-idf/components/esp_netif /home/dongkhoa/esp/esp-idf/components/esp_netif_stack /home/dongkhoa/esp/esp-idf/components/esp_partition /home/dongkhoa/esp/esp-idf/components/esp_phy /home/dongkhoa/esp/esp-idf/components/esp_pm /home/dongkhoa/esp/esp-idf/components/esp_psram /home/dongkhoa/esp/esp-idf/components/esp_ringbuf /home/dongkhoa/esp/esp-idf/components/esp_rom /home/dongkhoa/esp/esp-idf/components/esp_system /home/dongkhoa/esp/esp-idf/components/esp_timer /home/dongkhoa/esp/esp-idf/components/esp_wifi /home/dongkhoa/esp/esp-idf/components/espcoredump /home/dongkhoa/esp/esp-idf/components/esptool_py /home/dongkhoa/esp/esp-idf/components/fatfs /home/dongkhoa/esp/esp-idf/components/freertos /home/dongkhoa/esp/esp-idf/components/hal /home/dongkhoa/esp/esp-idf/components/heap /home/dongkhoa/esp/esp-idf/components/http_parser /home/dongkhoa/esp/esp-idf/components/idf_test /home/dongkhoa/esp/esp-idf/components/ieee802154 /home/dongkhoa/esp/esp-idf/components/json /home/dongkhoa/esp/esp-idf/components/log /home/dongkhoa/Documents/ssd1963/Project_1/GateWay/components/lv_examples /home/dongkhoa/Documents/ssd1963/Project_1/GateWay/components/lvgl /home/dongkhoa/Documents/ssd1963/Project_1/GateWay/components/lvgl_esp32_drivers /home/dongkhoa/Documents/ssd1963/Project_1/GateWay/components/lvgl_esp32_drivers/lvgl_tft /home/dongkhoa/Documents/ssd1963/Project_1/GateWay/components/lvgl_esp32_drivers/lvgl_touch /home/dongkhoa/esp/esp-idf/components/lwip /home/dongkhoa/Documents/ssd1963/Project_1/GateWay/main /home/dongkhoa/esp/esp-idf/components/mbedtls /home/dongkhoa/esp/esp-idf/components/mqtt /home/dongkhoa/esp/esp-idf/components/newlib /home/dongkhoa/esp/esp-idf/components/nvs_flash /home/dongkhoa/esp/esp-idf/components/openthread /home/dongkhoa/esp/esp-idf/components/partition_table /home/dongkhoa/esp/esp-idf/components/perfmon /home/dongkhoa/esp/esp-idf/components/protobuf-c /home/dongkhoa/esp/esp-idf/components/protocomm /home/dongkhoa/esp/esp-idf/components/pthread /home/dongkhoa/esp/esp-idf/components/sdmmc /home/dongkhoa/esp/esp-idf/components/soc /home/dongkhoa/esp/esp-idf/components/spi_flash /home/dongkhoa/esp/esp-idf/components/spiffs /home/dongkhoa/esp/esp-idf/components/tcp_transport /home/dongkhoa/esp/esp-idf/components/ulp /home/dongkhoa/esp/esp-idf/components/unity /home/dongkhoa/esp/esp-idf/components/usb /home/dongkhoa/esp/esp-idf/components/vfs /home/dongkhoa/esp/esp-idf/components/wear_levelling /home/dongkhoa/esp/esp-idf/components/wifi_provisioning /home/dongkhoa/esp/esp-idf/components/wpa_supplicant /home/dongkhoa/esp/esp-idf/components/xtensa
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/dongkhoa/Documents/ssd1963/Project_1/GateWay/build

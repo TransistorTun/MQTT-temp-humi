@@ -1,0 +1,12 @@
+[submodule "Test_1/components/lvgl"]
+	path = Test_1/components/lvgl
+	url = https://github.com/lvgl/lvgl.git
+[submodule "Test_1/components/lvgl_esp32_drivers"]
+	path = Test_1/components/lvgl_esp32_drivers
+	url = https://github.com/lvgl/lvgl_esp32_drivers.git
+[submodule "GateWay/components/lvgl"]
+	path = GateWay/components/lvgl
+	url = https://github.com/lvgl/lvgl.git
+[submodule "GateWay/components/lvgl_esp32_drivers"]
+	path = GateWay/components/lvgl_esp32_drivers
+	url = https://github.com/lvgl/lvgl_esp32_drivers.git

@@ -1,0 +1,4 @@
+Compiler supported targets: xtensa-esp32-elf
+
+SOURCES contents: touch_driver.c
+SOURCES contents: disp_driver.c;ili9341.c;disp_spi.c

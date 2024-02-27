@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/home/dongkhoa/Documents/ssd1963/Project_1/GateWay/build/CMakeFiles/bootloader
+/home/dongkhoa/Documents/ssd1963/Project_1/GateWay/build/CMakeFiles/bootloader.rule
+/home/dongkhoa/Documents/ssd1963/Project_1/GateWay/build/CMakeFiles/bootloader-complete.rule
+/home/dongkhoa/Documents/ssd1963/Project_1/GateWay/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+/home/dongkhoa/Documents/ssd1963/Project_1/GateWay/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/home/dongkhoa/Documents/ssd1963/Project_1/GateWay/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/home/dongkhoa/Documents/ssd1963/Project_1/GateWay/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/home/dongkhoa/Documents/ssd1963/Project_1/GateWay/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/home/dongkhoa/Documents/ssd1963/Project_1/GateWay/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/home/dongkhoa/Documents/ssd1963/Project_1/GateWay/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
